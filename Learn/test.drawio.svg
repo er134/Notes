@@ -1,0 +1,15 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="321px" height="361px" viewBox="-0.5 -0.5 321 361" content="&lt;mxfile&gt;&lt;diagram id=&quot;eZ3Bq39Ku0gSnibO5glH&quot; name=&quot;Page-1&quot;&gt;xZZLc4MgFIV/jXuV+Oi26WvTVRZdU7lVZlAcxGj664vhGkNNmsw0Y1bC4SCcy+fDI+uyf1W0Lt4lA+GFPus98uSFYRAEqbkMys4qSRpaIVecoWkSNvwbUPRRbTmDxjFqKYXmtStmsqog045GlZKda/uSwl21pjnMhE1GxVz94EwXVk3DZNLfgOfFuHIQP9iRko5mTNIUlMnuSCLPHlkrKbVtlf0axFC8sS523suZ0cPGFFT6mgkrO2FLRYvZcF96N4YFZrJjt5KVuTwWuhSmF5imtQ+esztAqZGtytCFq2iqckAXOaQ32IAsQaudsSgQVPOte3eK55cffFNE08CUpxOHlxMr2VYMBr9vEnYF17Cp6X7vnQH6VAG2oDT0f5dgHg4nrBAGfBoO/W5iKxiBKY64iv3/lyO+DwBkDkC0EADkCgAKWX62zeXDd0m5AQqxiwJJ5iikJ0hIb0BCeh8SojkJyUIkRJcTL33+v14F0ZKvguQKAIQw31i4w4OxZGVMd/oC78eO/mPI8w8=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 60 60 L 60 123.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 60 128.88 L 56.5 121.88 L 60 123.63 L 63.5 121.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="0" y="0" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 60 210 L 60 293.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 60 298.88 L 56.5 291.88 L 60 293.63 L 63.5 291.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 60 130 L 100 170 L 60 210 L 20 170 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 120 330 L 193.63 330" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 198.88 330 L 191.88 333.5 L 193.63 330 L 191.88 326.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="0" y="300" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <ellipse cx="260" cy="330" rx="60" ry="30" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+    </g>
+</svg>
