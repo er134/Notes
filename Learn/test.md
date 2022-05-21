@@ -30,8 +30,10 @@
 
 ## 尝试代码
 
-```python
-print("Hello, World!")
+```csharp
+var x=1;
+var X=Point.X;
+Console.WriteLine(1);
 ```
 
 ## 超链接
@@ -89,7 +91,7 @@ printf()
 
 *单位圆*$x^2+y^2=1$
 
-$$
+$
 \begin{cases}
 x=\rho\cos\theta \\
 y=\rho\sin\theta \\
